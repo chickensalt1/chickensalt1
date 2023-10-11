@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @chickensalt1
+- 👀 I’m interested in all things Comp Sci.
+- 🌱 I’m currently learning C, html, CSS, and Javascript.
